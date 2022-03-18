@@ -3,7 +3,7 @@
 Udacity Projects- Use of power Query
 
 
-## Data warehouse of the small shop
+## Data warehouse of a small shop
 
 
 
