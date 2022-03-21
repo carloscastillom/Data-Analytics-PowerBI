@@ -1,0 +1,5 @@
+Expensive Non-Organic = CALCULATE(MAX('Week 1 Sales'[Price Ea]),'Products'[IsOrganic]="N")
+Qty Long growth=CALCULATE(SUM('Week 1 Sales'[Qty] ), 'Products'[Days Till Yield] > 60 )
+Sales Total = SUMX('Week 1 Sales',[Qty]*[Amount])
+R Sales Total = SUMX('Week 1 Sales', [Qty]*Related('Product'[Amount])
+
