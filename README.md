@@ -5,6 +5,9 @@ Udacity Projects- Use of power Query. All databasets in this repository were pro
 
 ## 1.Preparing and Modeling Data
 
+Training in Extract, Transform and Load of data provided using Power Query and creationand use of measures in DAX 
+
+
   -ETL of the data supplied by Udacity.  
   ![datschema](https://user-images.githubusercontent.com/65776444/159014165-333d86e6-42bd-4ba7-9163-b1b5506ef68e.PNG)
 
