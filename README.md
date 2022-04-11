@@ -23,7 +23,6 @@ Application of Extract, Transform and Load of data provided by Udacity for a com
 ### Main Steps
 Here are the main steps. We'll go over each of these in more detail on the pages that follow.
 
-* Test
   * Source files. Download and familiarize yourself with the source files provided by SSBC.
   * Sketch the data model. Sketch out the data model you intend to build.
   * Use Get Data. Use Get Data to load the data from the starter materials into Power BI.
