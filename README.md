@@ -30,19 +30,19 @@ The table above is sorted by total sales. The distributors are responsible for 9
 
 ![image](https://user-images.githubusercontent.com/65776444/162725284-0bfeb25e-b692-4bd2-a90b-4673959daad2.png)
 
-Executive Summary: The report is sorted by sales by product. The 2 products with the highest profit margin also have 68% of total sales. The company's
+The table above is sorted by sales by product. The 2 products with the highest profit margin also have 68% of total sales. The company's
 efforts and resources should be invested in Bamboo Grove and Imperial Poet. On the other hand, the Scholar Saison product has a very low profit margin
 and ranks third in total sales by product. Further research and discussion with the marketing team is needed as to whether it makes sense to keep the item
 in the company's portfolio.
 
 ![image](https://user-images.githubusercontent.com/65776444/162725832-50d8d590-b99b-4b9c-b484-f05f0773d4f7.png)
 
-Executive Summary: The Half Keg is the product type that on average is most profitable. Followed by the Keg, Six pack and the tasting room pour, on that
+The Half Keg is the product type that on average is most profitable. Followed by the Keg, Six pack and the tasting room pour, on that
 order. The brand name Scholar Saison have a very low per serving gross profit across all product types, in the Six pack even have a negative gross profit.
 
 ![image](https://user-images.githubusercontent.com/65776444/162725909-7b4614c9-6186-4cff-ad41-9eb064c965bb.png)
 
-Executive Summary: It seems there there are peak of sales in May, November and Decemenber. The Product Poet had consistence sales until may from then on, it seems the
+It seems there there are peak of sales in May, November and Decemenber. The Product Poet had consistence sales until may from then on, it seems the
 Scholars Saison took over cannibalize those sales. The Other Products range between 400 to 800 following the sames general seasonality.
 
 
