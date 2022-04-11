@@ -5,23 +5,33 @@ Udacity Projects- Use of power Query. All databasets in this repository were pro
 
 ## 1.Preparing and Modeling Data
 
-Training in Extract, Transform and Load of data provided using Power Query and creationand use of measures in DAX 
-
+Training in Extract, Transform and Load of data provided using Power Query and creationand use of measures in DAX, in the following images, you are able to see a very simple data schema and a basic table. 
 
   Data Schema of the data supplied by Udacity.  
   ![datschema](https://user-images.githubusercontent.com/65776444/159014165-333d86e6-42bd-4ba7-9163-b1b5506ef68e.PNG)
 
 You can clearly see the different tables with their respective columns. the fact table is connected through 3 dimension tables. Each conections is one-to-many. 
 
-  Table using Dax Measures 
   ![DaxQuick](https://user-images.githubusercontent.com/65776444/159014761-af262076-f018-4b1e-8836-cc25fcf7962e.PNG)
   
   
   
-  Instead include the amount and all the reports that were made 
-
-  
 ## 2.Seven Sage Brewing Company
+
+Application of Extract, Transform and Load of data provided by Udacity for a company called Seven Sage Brewing Company (SSBC)
+
+Main Steps
+Here are the main steps. We'll go over each of these in more detail on the pages that follow.
+
+Source files. Download and familiarize yourself with the source files provided by SSBC.
+Sketch the data model. Sketch out the data model you intend to build.
+Use Get Data. Use Get Data to load the data from the starter materials into Power BI.
+Structure, combine, and clean the data. Clean and format your data so that it will work well in your data model.
+Create your date table. Create a date table to support time intelligence.
+Build relationships between your tables. Build a relationship from each dimension to the relevant key on the fact table.
+Write your measures. To satisfy the CFO's requirements, we will need to write six measures—to calculate Sales, Cost of Sales and Gross Profit Margin in two different currencies.
+Create a report. Build a basic visual report to display your findings.
+
 
 ![image](https://user-images.githubusercontent.com/65776444/162724752-5b70439a-c8b8-4027-af7b-3fbc32d3de6a.png)
 
