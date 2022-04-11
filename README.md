@@ -21,7 +21,7 @@ You can clearly see the different tables with their respective columns. the fact
   Instead include the amount and all the reports that were made 
 
   
-## 2.Seven Sage BC
+## 2.Seven Sage Brewing Company
 
 ![image](https://user-images.githubusercontent.com/65776444/162724752-5b70439a-c8b8-4027-af7b-3fbc32d3de6a.png)
 
