@@ -55,5 +55,19 @@ It seems there there are peak of sales in May, November and Decemenber. The Prod
 Scholars Saison took over cannibalize those sales. The Other Products range between 400 to 800 following the sames general seasonality.
 
 
+## 3. S
+
+## 4. Market Analysis Report for National Clothing Chain
+
+Project Description
+An online national clothing chain needs your help creating a targeted marketing campaign. Sales have been flat and they want to lure lost customers back. They want to advertise specific products to specific customers in specific locations, but they don’t know who to target. They have three products in mind:
+ - Shirt: $25
+ - Sweater: $100
+ - Leather Bag: $1,000
+
+
+
+
+
 
 
