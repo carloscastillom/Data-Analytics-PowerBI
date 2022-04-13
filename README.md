@@ -55,7 +55,9 @@ It seems there there are peak of sales in May, November and Decemenber. The Prod
 Scholars Saison took over cannibalize those sales. The Other Products range between 400 to 800 following the sames general seasonality.
 
 
-## 3. S
+## 3. Compelling Data Visualization
+
+
 
 ## 4. Market Analysis Report for National Clothing Chain
 
