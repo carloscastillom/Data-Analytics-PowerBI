@@ -58,6 +58,17 @@ Scholars Saison took over cannibalize those sales. The Other Products range betw
 ## 3. Compelling Data Visualization
 
 
+![image](https://user-images.githubusercontent.com/65776444/163197223-d7687a04-61fa-45e3-b012-df431f53846f.png)
+
+
+
+![image](https://user-images.githubusercontent.com/65776444/163197295-30fc3c26-6060-4376-bea7-c61ff16a2f6a.png)
+
+
+![image](https://user-images.githubusercontent.com/65776444/163197356-43912fb8-f971-4097-b33f-6504d3411647.png)
+
+
+
 
 ## 4. Market Analysis Report for National Clothing Chain
 
