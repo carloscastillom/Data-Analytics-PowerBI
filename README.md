@@ -57,6 +57,8 @@ Scholars Saison took over cannibalize those sales. The Other Products range betw
 
 ## 3. Compelling Data Visualization
 
+Training in graphs and charts making. Based on the dataset supplied by udacity I created the following charts in Power BI
+
 
 ![image](https://user-images.githubusercontent.com/65776444/163197223-d7687a04-61fa-45e3-b012-df431f53846f.png)
 
@@ -68,9 +70,10 @@ Scholars Saison took over cannibalize those sales. The Other Products range betw
 ![image](https://user-images.githubusercontent.com/65776444/163197356-43912fb8-f971-4097-b33f-6504d3411647.png)
 
 
+## 5. Waggle project
 
 
-## 4. Market Analysis Report for National Clothing Chain
+## 5. Market Analysis Report for National Clothing Chain
 
 Project Description
 An online national clothing chain needs your help creating a targeted marketing campaign. Sales have been flat and they want to lure lost customers back. They want to advertise specific products to specific customers in specific locations, but they don’t know who to target. They have three products in mind:
