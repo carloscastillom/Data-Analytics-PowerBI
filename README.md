@@ -10,15 +10,14 @@ Training in Extract, Transform and Load of data provided using Power Query and c
   Data Schema of the data supplied by Udacity.  
   ![datschema](https://user-images.githubusercontent.com/65776444/159014165-333d86e6-42bd-4ba7-9163-b1b5506ef68e.PNG)
 
-You can clearly see the different tables with their respective columns. the fact table is connected through 3 dimension tables. Each conections is one-to-many. 
+the image above show a very simple star schema. You can clearly see the different tables with their respective columns. the fact table is connected through 3 dimension tables and Each conections is one-to-many. 
 
   ![DaxQuick](https://user-images.githubusercontent.com/65776444/159014761-af262076-f018-4b1e-8836-cc25fcf7962e.PNG)
   
   
-  
 ## 2. Seven Sage Brewing Company
 
-Application of Extract, Transform and Load of data provided by Udacity for a company called Seven Sage Brewing Company (SSBC)
+Application of Extract, Transform and Load of data provided by Udacity for a company called Seven Sage Brewing Company (SSBC) 
 
 ### Main Steps
 Here are the main steps. We'll go over each of these in more detail on the pages that follow.
