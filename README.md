@@ -72,6 +72,33 @@ Training in graphs and charts making. Based on the dataset supplied by udacity I
 
 ## 5. Waggle project
 
+all pages have a define spaces for Filters and buttons for page navigation on the left hand side of the dashboard.
+
+![image](https://user-images.githubusercontent.com/65776444/163331649-a4f6986c-8550-4ef5-9ef1-51d37e2bb477.png)
+
+![image](https://user-images.githubusercontent.com/65776444/163332108-da1d38e1-0f6c-4b8f-9654-92bd894424c6.png)
+
+![image](https://user-images.githubusercontent.com/65776444/163332253-0a866cf4-e7d1-42ab-be1c-c5ba55fe0079.png)
+
+
+Home Page
+
+![image](https://user-images.githubusercontent.com/65776444/163332355-165f8f41-72ea-412a-9a38-c258032275c2.png)
+
+
+Pets Insights
+
+![image](https://user-images.githubusercontent.com/65776444/163332432-d14299e6-77d1-4847-803c-912c84731cb7.png)
+
+Family Insights
+
+![image](https://user-images.githubusercontent.com/65776444/163332585-e25fa616-6910-4eab-a96e-028cf82b984b.png)
+
+
+
+
+
+
 
 ## 5. Market Analysis Report for National Clothing Chain
 
