@@ -74,11 +74,8 @@ Training in graphs and charts making. Based on the dataset supplied by udacity I
 
 all pages have a define spaces for Filters and buttons for page navigation on the left hand side of the dashboard.
 
-![image](https://user-images.githubusercontent.com/65776444/163331649-a4f6986c-8550-4ef5-9ef1-51d37e2bb477.png)
+![image](https://user-images.githubusercontent.com/65776444/163332962-fc1e3832-7ff0-4f0b-940b-e1d33e4bd793.png)
 
-![image](https://user-images.githubusercontent.com/65776444/163332108-da1d38e1-0f6c-4b8f-9654-92bd894424c6.png)
-
-![image](https://user-images.githubusercontent.com/65776444/163332253-0a866cf4-e7d1-42ab-be1c-c5ba55fe0079.png)
 
 
 Home Page
