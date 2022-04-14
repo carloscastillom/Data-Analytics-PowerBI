@@ -106,7 +106,12 @@ An online national clothing chain needs your help creating a targeted marketing 
  - Leather Bag: $1,000
 
 
+You’ll need to present your analysis as a 1 page written summary and visual report in Power BI. Use the following visuals to present your data:
 
+- Income Distribution: Histogram
+- Household Income by Location: Map
+- Correlations: Scatter Plot with Trendline and Card with R^2 value
+- Use other visuals as-needed to further present the results of your analysis.
 
 
 
