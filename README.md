@@ -1,6 +1,6 @@
 # Power-Query
 
-Udacity Projects- Use of power Query. All databasets in this repository were provided by Udacity and they were use for an academic purpose 
+Udacity Projects- Use of power Query. All databasets in this repository were provided by Udacity and they were use for an academic purpose. 
 
 
 ## 1. Preparing and Modeling Data
