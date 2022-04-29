@@ -3,14 +3,14 @@
 Udacity Projects- Use of power Query. All databasets in this repository were provided by Udacity and they were use for an academic purpose. 
 
 
-## 1. Preparing and Modeling Data
+## 1. Preparing and Modeling Data.
 
 Training in Extract, Transform and Load of data provided using Power Query and creationand use of measures in DAX, in the following images, you are able to see a very simple data schema and a basic table. 
 
   Data Schema of the data supplied by Udacity.  
   ![datschema](https://user-images.githubusercontent.com/65776444/159014165-333d86e6-42bd-4ba7-9163-b1b5506ef68e.PNG)
 
-the image above show a very simple star schema. You can clearly see the different tables with their respective columns. the fact table is connected through 3 dimension tables and Each conections is one-to-many. 
+The image above show a very simple star schema. You can clearly see the different tables with their respective columns. the fact table is connected through 3 dimension tables and Each conections is one-to-many. 
 
   ![DaxQuick](https://user-images.githubusercontent.com/65776444/159014761-af262076-f018-4b1e-8836-cc25fcf7962e.PNG)
   
@@ -114,5 +114,5 @@ You’ll need to present your analysis as a 1 page written summary and visual re
 - Use other visuals as-needed to further present the results of your analysis.
 
 
-
+Include the analysis
 
